@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">CCTvDemo</string>
+    <string name="exo_controls_previous_description">Previous track</string>
+    <string name="exo_controls_next_description">Next track</string>
+    <string name="exo_controls_pause_description">Pause</string>
+    <string name="exo_controls_play_description">Play</string>
+    <string name="exo_controls_stop_description">Stop</string>
+    <string name="exo_controls_rewind_description">Rewind</string>
+    <string name="exo_controls_fastforward_description">Fast forward</string>
+    <string name="video">Video</string>
+
+    <string-array name="array_country">
+
+        <item>Select country</item>
+        <item>India</item>
+        <item>Australia</item>
+        <item>USA</item>
+
+    </string-array>
+
+    <string-array name="language_india">
+        <item>Select language</item>
+        <item>Hindi</item>
+        <item>Telugu</item>
+    </string-array>
+
+    <string-array name="language_english">
+        <item>Select language</item>
+        <item>English</item>
+
+    </string-array>
+
+    <string-array name="state_india_telugu">
+
+        <item>Select state</item>
+        <item>Andhra Pradesh</item>
+        <item>Telangana</item>
+    </string-array>
+
+    <string-array name="state_india_hindi">
+        <item>Select state</item>
+        <item>Delhi</item>
+        <item>Rajasthan</item>
+        <item>Utther Pradesh</item>
+    </string-array>
+
+    <string-array name="state_usa">
+        <item>Select state</item>
+        <item>California</item>
+        <item>NYC</item>
+        <item>LasVegas</item>
+    </string-array>
+
+    <string-array name="state_australia">
+        <item>Select state</item>
+        <item>Sydney</item>
+        <item>Melbourne</item>
+        <item>Canberra</item>
+    </string-array>
+
+    <string-array name="hero_english">
+        <item>Select hero</item>
+        <item>Tony stark</item>
+        <item>Rock</item>
+        <item>Paul</item>
+
+    </string-array>
+
+    <string-array name="hero_telugu">
+        <item>Select hero</item>
+        <item>NTR</item>
+        <item>Maheshbabu</item>
+        <item>Prabhas</item>
+    </string-array>
+
+    <string-array name="hero_hindi">
+        <item>Select hero</item>
+        <item>Salman</item>
+        <item>Sharukh</item>
+        <item>Ranbeer</item>
+    </string-array>
+
+    <string-array name="heroine_telugu">
+        <item>Select heroine</item>
+        <item>Kajal</item>
+        <item>Anushka</item>
+        <item>Tamanna</item>
+    </string-array>
+
+    <string-array name="heroine_hindi">
+        <item>Select heroine</item>
+        <item>Deepika</item>
+        <item>Katrina</item>
+        <item>Priyanka</item>
+
+    </string-array>
+
+    <string-array name="heroine_english">
+        <item>Select heroine</item>
+        <item>Angelina Jolie</item>
+        <item>Reese Witherspoon</item>
+        <item>Jennifer Aniston</item>
+
+    </string-array>
+
+    <string-array name="directors_telugu">
+        <item>Select director</item>
+        <item>trivikram</item>
+        <item>siva</item>
+        <item>puri</item>
+    </string-array>
+
+    <string-array name="directors_english">
+        <item>Select director</item>
+        <item>Steven Spielberg</item>
+        <item>Christopher Nolan</item>
+        <item>James Cameron</item>
+    </string-array>
+
+    <string-array name="directors_hindi">
+        <item>Select director</item>
+        <item>Rajkumar Hirani</item>
+        <item>Karan Johar</item>
+        <item>Rohit Shetty</item>
+    </string-array>
+
+    <string-array name="string_array">
+        <item>Select item</item>
+    </string-array>
+</resources>
